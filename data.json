@@ -38,7 +38,8 @@
         "Congestion": 0.13,
         "Economic": 0.12,
         "Enviornment": 0.09
-    }
+    },
+    "someEncouragement":["An, you are awesome.", "Whoa! You are amazing.", "HELLO AN!"]
 }
 
 
