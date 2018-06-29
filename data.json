@@ -1,0 +1,57 @@
+{
+    "scoreRecord0":{
+        "Safety": 0.04,
+        "Preservation": 0.2,
+        "Connectivity": 0.1,
+        "Congestion": 0.03,
+        "Economic": 0.02,
+        "Enviornment": 0.01
+    },
+    "scoreRecord1":{
+        "Safety": 0.14,
+        "Preservation": 0.02,
+        "Connectivity": 0.01,
+        "Congestion": 0.13,
+        "Economic": 0.02,
+        "Enviornment": 0.9
+    },
+    "scoreRecord2":{
+        "Safety": 0.4,
+        "Preservation": 0.2,
+        "Connectivity": 0.1,
+        "Congestion": 0.3,
+        "Economic": 0.22,
+        "Enviornment": 0.19
+    },
+    "scoreRecord3":{
+        "Safety": 0.2,
+        "Preservation": 0.19,
+        "Connectivity": 0.1,
+        "Congestion": 0.28,
+        "Economic": 0.16,
+        "Enviornment": 0.21
+    },
+    "scoreRecord4":{
+        "Safety": 0.14,
+        "Preservation": 0.12,
+        "Connectivity": 0.11,
+        "Congestion": 0.13,
+        "Economic": 0.12,
+        "Enviornment": 0.09
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
