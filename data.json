@@ -1,45 +1,51 @@
 {
-    "scores":
-        [{"csj0":{
+    "message":"hello an",
+    "name":"an",
+    "project":{
+        "name": "csj0",
+        "scores":{
             "Safety": 0.04,
             "Preservation": 0.2,
             "Connectivity": 0.1,
             "Congestion": 0.03,
             "Economic": 0.02,
             "Enviornment": 0.01
-        }},
-        {"csj1":{
-            "Safety": 0.14,
-            "Preservation": 0.02,
-            "Connectivity": 0.01,
-            "Congestion": 0.13,
-            "Economic": 0.02,
-            "Enviornment": 0.9
-        }},
-        {"csj2":{
-            "Safety": 0.4,
-            "Preservation": 0.2,
-            "Connectivity": 0.1,
-            "Congestion": 0.3,
-            "Economic": 0.22,
-            "Enviornment": 0.1
-        }},
-        {"csj3":{
-            "Safety": 0.2,
-            "Preservation": 0.19,
-            "Connectivity": 0.1,
-            "Congestion": 0.28,
-            "Economic": 0.16,
-            "Enviornment": 0.2
-        }},
-        {"csj4":{
-            "Safety": 0.14,
-            "Preservation": 0.12,
-            "Connectivity": 0.11,
-            "Congestion": 0.13,
-            "Economic": 0.12,
-            "Enviornment": 0.03
-        }}],
+        }
+    },
+    
+    //     {"csj1":{
+    //         "Safety": 0.14,
+    //         "Preservation": 0.02,
+    //         "Connectivity": 0.01,
+    //         "Congestion": 0.13,
+    //         "Economic": 0.02,
+    //         "Enviornment": 0.9
+    //     }},
+    //     {"csj2":{
+    //         "Safety": 0.4,
+    //         "Preservation": 0.2,
+    //         "Connectivity": 0.1,
+    //         "Congestion": 0.3,
+    //         "Economic": 0.22,
+    //         "Enviornment": 0.1
+    //     }},
+    //     {"csj3":{
+    //         "Safety": 0.2,
+    //         "Preservation": 0.19,
+    //         "Connectivity": 0.1,
+    //         "Congestion": 0.28,
+    //         "Economic": 0.16,
+    //         "Enviornment": 0.2
+    //     }},
+    //     {"csj4":{
+    //         "Safety": 0.14,
+    //         "Preservation": 0.12,
+    //         "Connectivity": 0.11,
+    //         "Congestion": 0.13,
+    //         "Economic": 0.12,
+    //         "Enviornment": 0.03
+    //     }},
+
     "someEncouragement":["An, you are awesome.", "Whoa! You are amazing.", "HELLO AN!"]
 }
 
